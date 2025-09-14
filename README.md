@@ -5,6 +5,7 @@
 
 - 한양대 BPNE 연구실  
 - IMU센서 + 압력센서 BLE 스마트 큐브 제작  
+<img  width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/01b8ebe8-426a-4b0d-9853-3614b55c9cec" />
 
 ---
 
