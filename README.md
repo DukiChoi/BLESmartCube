@@ -1,3 +1,5 @@
+![License: Personal Use Only](https://img.shields.io/badge/License-Personal--Use--Only-red.svg)
+
 # BLESmartCube
 <p align="left">
   <img src="https://github.com/user-attachments/assets/d34f545b-8ebe-4e57-8919-aebf579c034e" width="400" height="400" alt="icon"/>
