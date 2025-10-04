@@ -1,4 +1,6 @@
-![License: Personal Use Only](https://img.shields.io/badge/License-Personal--Use--Only-red.svg)
+[![License: Personal Use Only](https://img.shields.io/badge/License-Personal--Use--Only-red.svg)](https://github.com/DukiChoi/BLESmartCube/blob/main/LICENSE)
+[![Contact: Email Author](https://img.shields.io/badge/Contact-Email%20Author-blue.svg)](mailto:cbcc1234@gmail.com)
+
 
 # BLESmartCube
 <p align="left">
