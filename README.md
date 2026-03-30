@@ -18,3 +18,4 @@
 최신 스마트 큐브 앱은 아래 릴리스 페이지에서 다운로드할 수 있습니다.  
 
 - [**Download page**](https://github.com/DukiChoi/BLESmartCube/releases)
+<img width="1101" height="715" alt="image" src="https://github.com/user-attachments/assets/22f70058-534f-4f6a-8bae-66d91b25da83" />
