@@ -23,8 +23,8 @@
 - 클라우드 기반 데이터 수집: Google Drive API를 연동하여 실험 중 발생하는 센싱 데이터(가속도,자세,압력)를 실시간으로 클라우드에 전송(Wifi) 및 자동 저장하는 데이터 파이프라인 구축
 
 ## 큐브 사진
-<img height="600" alt="KakaoTalk_20260330_212451191_03" src="https://github.com/user-attachments/assets/20d38853-cece-4732-96f7-873980cc9828" />
 <img  height="600" src="https://github.com/user-attachments/assets/75951c20-c7cc-4451-b9e2-83fd1ddf7854"/>
+<img height="600" alt="KakaoTalk_20260330_212451191_03" src="https://github.com/user-attachments/assets/20d38853-cece-4732-96f7-873980cc9828" />
 
 - 터치 센서(Custom FSR sensor) + LED 센서를 장착하여 터치 시에 불빛이 나는 상호작용 기능
 - IMU 센서(BNO055)와 BLE(MCU:NRF52832)를 통한 데이터(가속도,자세,압력) 수집 기능
