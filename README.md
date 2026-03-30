@@ -6,7 +6,9 @@
 <p align="left">
   <img src="https://github.com/user-attachments/assets/d34f545b-8ebe-4e57-8919-aebf579c034e" width="400" height="400" alt="icon"/>
 </p>
+
 - 한양대 BPNE 연구실
+
 - IMU센서 + 압력센서 BLE 스마트 큐브 제작  
 
 ## 실험 사진
