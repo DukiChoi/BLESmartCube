@@ -13,9 +13,9 @@
 
 
 ## 큐브 연동 앱
-<img width="300" height="480" alt="1000001843" src="https://github.com/user-attachments/assets/e729cfbc-b3f0-43c0-b56c-1cf287fe6442" />
-<img width="300" height="480" alt="1000001844" src="https://github.com/user-attachments/assets/457600e4-65f3-44fa-9fc4-82ad01d4147b" />
-<img width="300" height="480" alt="1000001845" src="https://github.com/user-attachments/assets/4649597d-ec9a-42d9-b8cb-ae1d005569d7" />
+<img width="250" height="500" alt="1000001843" src="https://github.com/user-attachments/assets/e729cfbc-b3f0-43c0-b56c-1cf287fe6442" />
+<img width="250" height="500" alt="1000001844" src="https://github.com/user-attachments/assets/457600e4-65f3-44fa-9fc4-82ad01d4147b" />
+<img width="250" height="500" alt="1000001845" src="https://github.com/user-attachments/assets/4649597d-ec9a-42d9-b8cb-ae1d005569d7" />
 
 - 가속도 기반 상태 분류 및 시각 피드백: 3축 가속도 벡터의 크기($|Acc|$)를 실시간 연산하여 기기 상태를 식별하고, 결과에 따른 상태 인지용 시각 피드백(LED) 시스템
 - 캘리브레이션 인터페이스: 하드웨어 인터럽트(Button)를 활용한 Calibration Mode 진입/탈출 기능 및 사용자 편의성을 고려한 UI 구현
@@ -23,14 +23,15 @@
 - 클라우드 기반 데이터 수집: Google Drive API를 연동하여 실험 중 발생하는 센싱 데이터(가속도,자세,압력)를 실시간으로 클라우드에 전송(Wifi) 및 자동 저장하는 데이터 파이프라인 구축
 
 ## 큐브 사진
-![shiny cube](https://github.com/user-attachments/assets/75951c20-c7cc-4451-b9e2-83fd1ddf7854)
-<img width="450" height="600" alt="KakaoTalk_20260330_212451191_03" src="https://github.com/user-attachments/assets/20d38853-cece-4732-96f7-873980cc9828" />
+<img height="600" alt="KakaoTalk_20260330_212451191_03" src="https://github.com/user-attachments/assets/20d38853-cece-4732-96f7-873980cc9828" />
+<img  height="600" src="https://github.com/user-attachments/assets/75951c20-c7cc-4451-b9e2-83fd1ddf7854"/>
 
 - 터치 센서(Custom FSR sensor) + LED 센서를 장착하여 터치 시에 불빛이 나는 상호작용 기능
 - IMU 센서(BNO055)와 BLE(MCU:NRF52832)를 통한 데이터(가속도,자세,압력) 수집 기능
 
 ## 실험 사진
-<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/22f70058-534f-4f6a-8bae-66d91b25da83" />
+
+<img height="600" alt="image" src="https://github.com/user-attachments/assets/22f70058-534f-4f6a-8bae-66d91b25da83" />
 
 ## 📥 다운로드
 
