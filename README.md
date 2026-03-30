@@ -24,9 +24,10 @@
 
 ## 큐브 사진
 ![shiny cube](https://github.com/user-attachments/assets/75951c20-c7cc-4451-b9e2-83fd1ddf7854)
+<img width="450" height="600" alt="KakaoTalk_20260330_212451191_03" src="https://github.com/user-attachments/assets/20d38853-cece-4732-96f7-873980cc9828" />
 
-- 터치 센서(FSR) + LED 센서를 장착하여 터치 시에 불빛이 나는 상호작용 기능
-- IMU 센서와 BLE를 통한 데이터(가속도,자세,압력) 수집 기능
+- 터치 센서(Custom FSR sensor) + LED 센서를 장착하여 터치 시에 불빛이 나는 상호작용 기능
+- IMU 센서(BNO055)와 BLE(MCU:NRF52832)를 통한 데이터(가속도,자세,압력) 수집 기능
 
 ## 실험 사진
 <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/22f70058-534f-4f6a-8bae-66d91b25da83" />
